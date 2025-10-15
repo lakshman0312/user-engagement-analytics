@@ -45,9 +45,9 @@ Data_Analysis_Project/
 
 ├── reports/
 
-│ ├── Jupyter_Report.pdf
+│ ├── Code for analysis
 
-│ └── PowerBI_Report.pdf
+│ └── Mini presentation
 
 │
 

@@ -62,7 +62,6 @@ Data_Analysis_Project/
 | Tool / Library | Purpose |
 |----------------|----------|
 | **Python (Pandas, NumPy)** | Data cleaning & preprocessing |
-| **Matplotlib / Seaborn** | Basic exploratory visualizations |
 | **Power BI** | Interactive dashboards & KPIs |
 | **Excel / CSV** | Dataset storage and merging |
 | **Jupyter Notebook** | Code execution & documentation |

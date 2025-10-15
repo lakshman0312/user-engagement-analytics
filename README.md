@@ -122,7 +122,7 @@ Data_Analysis_Project/
 
 **Name:** Lakshman  
 **Role:** Data Enthusiast | Analyst | Power BI Developer  
-**Contact:** [LinkedIn](https://www.linkedin.com) • [Email](mailto:example@email.com)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/atmakuri-lakshman-b36174228/) • [Email](atmakurilakshman2003@gmail.com)
 
 ---
 

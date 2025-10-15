@@ -1,0 +1,431 @@
+campaign_id,user_id,experience_type,status,credits_used,created_date,published_date
+C00001,U0002,,draft,,2025-09-17,
+C00002,U0002,,published,4.0,2025-09-07,2025-09-12
+C00003,U0003,Alpha,published,5.0,2025-10-02,2025-10-04
+C00004,U0004,Spatial Interactive,published,1.0,2025-08-31,2025-09-17
+C00005,U0004,Prism Interactive,published,1.0,2025-08-26,2025-08-28
+C00006,U0005,,draft,,2025-09-22,
+C00007,U0006,Alpha,draft,,2025-09-18,
+C00008,U0006,3D Experience,draft,,2025-08-27,
+C00009,U0007,Prism,published,1.0,2025-10-02,2025-10-04
+C00010,U0008,3D Spatial,draft,,2025-09-03,
+C00011,U0008,Prism Interactive,deleted,,2025-09-22,
+C00012,U0010,3D Spatial,draft,,2025-09-08,
+C00013,U0010,3D Spatial,published,1.0,2025-09-21,2025-10-06
+C00014,U0011,Prism,published,3.0,2025-08-21,2025-08-27
+C00015,U0011,3D Experience,draft,,2025-08-30,
+C00016,U0012,Spatial Alpha,draft,,2025-08-17,
+C00017,U0013,Spatial Alpha,published,5.0,2025-09-25,2025-10-05
+C00018,U0014,Spatial Alpha,draft,,2025-09-09,
+C00019,U0014,Prism Interactive,draft,,2025-09-19,
+C00020,U0015,Prism Extended,published,5.0,2025-10-04,2025-10-04
+C00021,U0016,,published,1.0,2025-10-03,2025-10-06
+C00022,U0017,3D Spatial,published,2.0,2025-08-22,2025-08-24
+C00023,U0018,3D Experience,draft,,2025-09-28,
+C00024,U0018,Prism Extended,published,2.0,2025-09-12,2025-09-18
+C00025,U0018,Spatial Alpha,draft,,2025-10-03,
+C00026,U0018,Prism Extended,deleted,,2025-09-08,
+C00027,U0019,Alpha,draft,,2025-09-02,
+C00028,U0020,Alpha,published,2.0,2025-09-22,2025-09-25
+C00029,U0020,Prism Interactive,draft,,2025-10-04,
+C00030,U0021,Prism Interactive,draft,,2025-08-05,
+C00031,U0021,Prism,published,5.0,2025-08-12,2025-08-14
+C00032,U0021,Spatial Interactive,published,3.0,2025-08-10,2025-09-05
+C00033,U0022,Prism,draft,,2025-09-20,
+C00034,U0023,3D Experience,draft,,2025-09-30,
+C00035,U0024,3D Spatial,draft,,2025-10-05,
+C00036,U0024,Spatial Interactive,published,5.0,2025-09-20,2025-09-26
+C00037,U0024,Prism Extended,published,5.0,2025-09-25,2025-09-25
+C00038,U0024,Prism,deleted,,2025-09-08,
+C00039,U0026,Alpha Interactive,published,4.0,2025-08-26,2025-09-21
+C00040,U0026,Alpha,draft,,2025-09-22,
+C00041,U0026,Spatial TV,draft,,2025-08-29,
+C00042,U0026,Alpha Interactive,draft,,2025-08-18,
+C00043,U0027,Prism Extended,draft,,2025-09-18,
+C00044,U0028,Prism Interactive,published,4.0,2025-09-30,2025-10-06
+C00045,U0028,Alpha,draft,,2025-10-05,
+C00046,U0029,Prism Extended,published,4.0,2025-09-27,2025-10-04
+C00047,U0029,3D Spatial,published,4.0,2025-09-13,2025-10-06
+C00048,U0030,Prism Interactive,published,4.0,2025-09-09,2025-09-13
+C00049,U0030,Prism Extended,published,2.0,2025-09-28,2025-09-30
+C00050,U0031,3D Spatial,published,2.0,2025-09-09,2025-09-25
+C00051,U0031,Prism Extended,draft,,2025-08-04,
+C00052,U0032,Prism Extended,published,4.0,2025-08-26,2025-08-27
+C00053,U0032,Alpha Interactive,published,4.0,2025-09-27,2025-10-02
+C00054,U0033,Alpha,draft,,2025-09-30,
+C00055,U0034,Spatial Interactive,draft,,2025-09-18,
+C00056,U0034,,published,2.0,2025-09-17,2025-10-05
+C00057,U0034,Prism Interactive,draft,,2025-10-01,
+C00058,U0034,3D Experience,draft,,2025-10-04,
+C00059,U0034,Alpha Interactive,published,4.0,2025-09-27,2025-10-01
+C00060,U0034,Spatial TV,draft,,2025-10-01,
+C00061,U0035,Prism Interactive,published,3.0,2025-08-27,2025-09-01
+C00062,U0035,Spatial Interactive,draft,,2025-08-22,
+C00063,U0035,Alpha,deleted,,2025-09-08,
+C00064,U0035,3D Experience,published,4.0,2025-09-06,2025-09-10
+C00065,U0038,3D Experience,published,5.0,2025-09-07,2025-09-10
+C00066,U0039,3D Experience,published,2.0,2025-10-02,2025-10-06
+C00067,U0040,Spatial Alpha,published,,2025-10-05,2025-10-06
+C00068,U0041,3D Spatial,draft,,2025-09-13,
+C00069,U0041,Prism Interactive,published,1.0,2025-09-04,2025-09-04
+C00070,U0042,Alpha Interactive,published,3.0,2025-08-27,2025-09-03
+C00071,U0042,Spatial TV,published,2.0,2025-09-20,2025-09-25
+C00072,U0043,Prism Interactive,deleted,,2025-09-01,
+C00073,U0044,Prism Interactive,published,,2025-10-05,2025-10-05
+C00074,U0044,Alpha Interactive,draft,,2025-10-01,
+C00075,U0044,Alpha Interactive,draft,,2025-09-28,
+C00076,U0045,Prism Extended,published,2.0,2025-09-04,2025-09-04
+C00077,U0045,Prism Interactive,published,3.0,2025-08-21,2025-08-27
+C00078,U0046,Prism Extended,draft,,2025-08-22,
+C00079,U0046,Alpha Interactive,published,4.0,2025-08-05,2025-08-28
+C00080,U0047,3D Experience,published,3.0,2025-08-28,2025-08-29
+C00081,U0047,Alpha,published,4.0,2025-09-22,2025-10-05
+C00082,U0047,Spatial TV,published,2.0,2025-09-05,2025-09-21
+C00083,U0048,Prism Interactive,deleted,,2025-10-05,
+C00084,U0048,3D Experience,draft,,2025-09-24,
+C00085,U0048,Spatial TV,draft,,2025-09-10,
+C00086,U0048,3D Experience,deleted,,2025-10-03,
+C00087,U0049,Prism Extended,draft,,2025-09-30,
+C00088,U0050,Spatial TV,deleted,,2025-09-17,
+C00089,U0050,Prism Extended,published,5.0,2025-10-02,2025-10-04
+C00090,U0050,Spatial Interactive,published,4.0,2025-09-11,2025-09-15
+C00091,U0051,Prism Interactive,draft,,2025-09-14,
+C00092,U0052,Prism,published,1.0,2025-09-27,2025-09-30
+C00093,U0052,Prism Interactive,draft,,2025-10-05,
+C00094,U0053,Prism Extended,deleted,,2025-09-20,
+C00095,U0055,Alpha,published,5.0,2025-09-29,2025-10-02
+C00096,U0055,Prism,draft,,2025-08-25,
+C00097,U0055,Prism,published,4.0,2025-09-01,2025-09-01
+C00098,U0056,Spatial Alpha,published,2.0,2025-08-07,2025-08-21
+C00099,U0056,3D Experience,draft,,2025-07-27,
+C00100,U0056,Prism Extended,draft,,2025-08-26,
+C00101,U0056,Prism,draft,,2025-08-24,
+C00102,U0056,3D Spatial,draft,,2025-09-05,
+C00103,U0057,Prism,published,4.0,2025-08-28,2025-09-24
+C00104,U0057,Spatial TV,published,1.0,2025-08-31,2025-09-07
+C00105,U0057,Alpha Interactive,published,1.0,2025-09-01,2025-09-03
+C00106,U0057,Spatial Alpha,draft,,2025-09-27,
+C00107,U0058,Prism,deleted,,2025-10-04,
+C00108,U0058,3D Spatial,draft,,2025-09-05,
+C00109,U0059,3D Experience,draft,,2025-09-26,
+C00110,U0059,Prism,draft,,2025-09-02,
+C00111,U0060,Prism Interactive,published,1.0,2025-09-09,2025-10-02
+C00112,U0060,Prism Extended,draft,,2025-09-21,
+C00113,U0061,3D Experience,published,4.0,2025-09-26,2025-10-06
+C00114,U0061,Spatial TV,draft,,2025-09-18,
+C00115,U0063,Prism Interactive,published,2.0,2025-09-18,2025-09-18
+C00116,U0064,Spatial Interactive,draft,,2025-09-27,
+C00117,U0064,,draft,,2025-09-04,
+C00118,U0064,3D Spatial,draft,,2025-09-29,
+C00119,U0064,Spatial Alpha,draft,,2025-09-23,
+C00120,U0065,3D Experience,draft,,2025-10-03,
+C00121,U0067,3D Spatial,draft,,2025-10-05,
+C00122,U0067,Spatial Interactive,published,2.0,2025-08-17,2025-08-22
+C00123,U0067,3D Spatial,deleted,,2025-10-04,
+C00124,U0068,3D Spatial,published,,2025-09-08,2025-09-11
+C00125,U0068,Spatial TV,published,4.0,2025-09-24,2025-09-25
+C00126,U0068,3D Spatial,published,4.0,2025-09-20,2025-10-04
+C00127,U0068,Spatial Interactive,published,5.0,2025-09-03,2025-09-09
+C00128,U0069,Alpha,draft,,2025-08-03,
+C00129,U0069,Prism,draft,,2025-08-31,
+C00130,U0069,Prism Extended,published,2.0,2025-08-06,2025-08-16
+C00131,U0071,Spatial Alpha,published,1.0,2025-08-28,2025-09-19
+C00132,U0071,3D Experience,published,5.0,2025-09-17,2025-10-06
+C00133,U0072,Spatial TV,draft,,2025-09-26,
+C00134,U0072,,published,1.0,2025-09-08,2025-09-11
+C00135,U0072,Alpha,published,2.0,2025-09-18,2025-09-25
+C00136,U0072,Alpha,draft,,2025-08-28,
+C00137,U0072,Prism Interactive,published,2.0,2025-09-13,2025-10-05
+C00138,U0073,Prism,published,2.0,2025-10-01,2025-10-03
+C00139,U0073,Alpha,draft,,2025-09-13,
+C00140,U0073,Prism Interactive,published,2.0,2025-09-27,2025-10-02
+C00141,U0073,,draft,,2025-09-18,
+C00142,U0073,Spatial TV,published,3.0,2025-09-16,2025-10-05
+C00143,U0074,Spatial Interactive,draft,,2025-09-08,
+C00144,U0074,3D Spatial,draft,,2025-08-23,
+C00145,U0075,Alpha Interactive,published,5.0,2025-08-26,2025-08-26
+C00146,U0075,Spatial Interactive,published,3.0,2025-08-26,2025-08-26
+C00147,U0076,Prism,draft,,2025-09-21,
+C00148,U0076,Prism Interactive,draft,,2025-08-09,
+C00149,U0077,Prism Extended,deleted,,2025-09-19,
+C00150,U0077,Spatial Alpha,draft,,2025-09-19,
+C00151,U0077,Prism Interactive,draft,,2025-09-20,
+C00152,U0077,Spatial Interactive,published,4.0,2025-09-16,2025-09-22
+C00153,U0077,Prism,published,1.0,2025-10-02,2025-10-04
+C00154,U0077,Prism,published,5.0,2025-09-18,2025-10-05
+C00155,U0078,3D Experience,draft,,2025-09-28,
+C00156,U0078,Spatial Alpha,draft,,2025-09-22,
+C00157,U0078,Spatial Alpha,draft,,2025-09-12,
+C00158,U0078,Alpha Interactive,draft,,2025-08-28,
+C00159,U0079,Prism,draft,,2025-09-13,
+C00160,U0079,Alpha Interactive,deleted,,2025-10-03,
+C00161,U0079,3D Experience,published,2.0,2025-09-01,2025-09-06
+C00162,U0079,Alpha,draft,,2025-09-10,
+C00163,U0080,Prism,draft,,2025-09-22,
+C00164,U0080,Prism Interactive,published,,2025-09-18,2025-09-24
+C00165,U0080,3D Spatial,draft,,2025-08-30,
+C00166,U0081,Spatial TV,draft,,2025-10-02,
+C00167,U0082,Prism Extended,draft,,2025-08-26,
+C00168,U0082,Spatial Alpha,draft,,2025-08-23,
+C00169,U0083,Prism,published,,2025-09-30,2025-10-05
+C00170,U0083,Alpha,draft,,2025-10-04,
+C00171,U0084,,draft,,2025-09-22,
+C00172,U0084,3D Experience,published,5.0,2025-09-22,2025-10-06
+C00173,U0085,Spatial Interactive,published,5.0,2025-09-04,2025-09-16
+C00174,U0086,Spatial Interactive,draft,,2025-09-08,
+C00175,U0087,3D Experience,draft,,2025-08-16,
+C00176,U0087,Spatial TV,published,2.0,2025-09-16,2025-09-23
+C00177,U0088,Alpha,published,2.0,2025-08-10,2025-08-11
+C00178,U0089,Prism Extended,draft,,2025-09-20,
+C00179,U0089,Spatial Interactive,deleted,,2025-09-30,
+C00180,U0090,Spatial Interactive,published,4.0,2025-09-27,2025-10-04
+C00181,U0090,Prism Interactive,published,5.0,2025-09-24,2025-09-26
+C00182,U0090,Prism,draft,,2025-09-21,
+C00183,U0092,Prism Extended,draft,,2025-09-11,
+C00184,U0092,Alpha,draft,,2025-09-05,
+C00185,U0093,Spatial TV,published,2.0,2025-09-14,2025-09-22
+C00186,U0094,Alpha,published,5.0,2025-09-02,2025-09-04
+C00187,U0094,Spatial Interactive,published,5.0,2025-09-21,2025-09-28
+C00188,U0095,Prism Extended,published,4.0,2025-09-25,2025-09-25
+C00189,U0095,Prism Extended,draft,,2025-09-16,
+C00190,U0095,Spatial Alpha,published,2.0,2025-09-06,2025-09-06
+C00191,U0095,3D Spatial,deleted,,2025-09-19,
+C00192,U0096,Prism Extended,published,5.0,2025-08-27,2025-08-28
+C00193,U0097,Prism Extended,draft,,2025-09-13,
+C00194,U0098,3D Spatial,published,1.0,2025-09-01,2025-09-01
+C00195,U0098,Spatial Alpha,draft,,2025-09-18,
+C00196,U0098,Prism,draft,,2025-09-06,
+C00197,U0098,3D Experience,deleted,,2025-09-03,
+C00198,U0100,Spatial TV,published,3.0,2025-08-28,2025-09-03
+C00199,U0100,Prism Interactive,deleted,,2025-09-21,
+C00200,U0102,3D Spatial,published,3.0,2025-10-05,2025-10-05
+C00201,U0102,3D Spatial,published,5.0,2025-09-13,2025-09-19
+C00202,U0103,Prism Extended,draft,,2025-09-23,
+C00203,U0104,Spatial Interactive,published,1.0,2025-08-13,2025-08-17
+C00204,U0105,3D Spatial,published,4.0,2025-09-28,2025-10-02
+C00205,U0106,Prism Interactive,published,5.0,2025-09-03,2025-09-15
+C00206,U0106,3D Spatial,draft,,2025-07-23,
+C00207,U0106,Alpha,draft,,2025-10-05,
+C00208,U0108,Spatial Alpha,draft,,2025-09-22,
+C00209,U0108,Alpha,draft,,2025-09-23,
+C00210,U0108,Alpha,draft,,2025-09-23,
+C00211,U0108,Spatial TV,published,2.0,2025-09-25,2025-10-01
+C00212,U0109,Prism,draft,,2025-09-13,
+C00213,U0109,Spatial TV,draft,,2025-09-21,
+C00214,U0111,,draft,,2025-09-24,
+C00215,U0111,Spatial TV,draft,,2025-09-08,
+C00216,U0111,Spatial TV,draft,,2025-10-04,
+C00217,U0112,Prism Interactive,published,4.0,2025-08-25,2025-09-08
+C00218,U0113,Spatial TV,draft,,2025-09-01,
+C00219,U0114,Prism,published,2.0,2025-08-15,2025-09-02
+C00220,U0116,Spatial TV,draft,,2025-09-15,
+C00221,U0117,Spatial Alpha,draft,,2025-09-23,
+C00222,U0118,Prism Interactive,draft,,2025-08-06,
+C00223,U0119,Prism Extended,published,4.0,2025-08-17,2025-08-21
+C00224,U0120,3D Experience,published,3.0,2025-08-09,2025-09-01
+C00225,U0120,3D Spatial,published,5.0,2025-09-29,2025-10-02
+C00226,U0120,Prism Interactive,draft,,2025-08-13,
+C00227,U0121,Prism,draft,,2025-09-01,
+C00228,U0121,Spatial TV,deleted,,2025-09-29,
+C00229,U0121,Alpha Interactive,published,3.0,2025-09-03,2025-09-08
+C00230,U0122,Prism,draft,,2025-09-29,
+C00231,U0123,3D Spatial,published,2.0,2025-08-14,2025-08-22
+C00232,U0124,Prism Interactive,published,2.0,2025-08-23,2025-08-26
+C00233,U0124,Spatial Alpha,draft,,2025-09-22,
+C00234,U0124,Alpha Interactive,draft,,2025-09-24,
+C00235,U0124,Alpha,draft,,2025-09-04,
+C00236,U0124,Spatial Alpha,deleted,,2025-09-11,
+C00237,U0125,Spatial Alpha,draft,,2025-08-04,
+C00238,U0125,3D Spatial,draft,,2025-09-04,
+C00239,U0125,Alpha Interactive,deleted,,2025-07-26,
+C00240,U0126,Spatial Interactive,draft,,2025-09-22,
+C00241,U0126,Prism,published,3.0,2025-09-27,2025-10-03
+C00242,U0128,Spatial Interactive,draft,,2025-09-30,
+C00243,U0128,Prism Extended,draft,,2025-08-16,
+C00244,U0129,Spatial TV,published,1.0,2025-09-19,2025-09-26
+C00245,U0129,3D Spatial,draft,,2025-08-31,
+C00246,U0130,Alpha,published,2.0,2025-09-03,2025-09-29
+C00247,U0130,Prism,draft,,2025-09-04,
+C00248,U0131,Prism,published,,2025-09-13,2025-09-16
+C00249,U0134,3D Spatial,draft,,2025-09-18,
+C00250,U0134,Prism Interactive,published,2.0,2025-10-04,2025-10-05
+C00251,U0135,Spatial Interactive,draft,,2025-09-10,
+C00252,U0136,3D Spatial,draft,,2025-07-30,
+C00253,U0136,3D Spatial,draft,,2025-07-31,
+C00254,U0137,3D Spatial,published,5.0,2025-08-10,2025-08-11
+C00255,U0137,Spatial Interactive,draft,,2025-08-23,
+C00256,U0139,Spatial Alpha,draft,,2025-08-29,
+C00257,U0140,Spatial Alpha,published,2.0,2025-08-27,2025-09-25
+C00258,U0141,Spatial Alpha,published,4.0,2025-09-19,2025-09-25
+C00259,U0141,3D Spatial,published,5.0,2025-08-20,2025-09-16
+C00260,U0141,Alpha,published,1.0,2025-08-11,2025-08-28
+C00261,U0142,3D Spatial,published,4.0,2025-09-02,2025-09-03
+C00262,U0143,Prism Extended,draft,,2025-09-28,
+C00263,U0143,3D Experience,published,5.0,2025-09-09,2025-09-10
+C00264,U0144,Spatial TV,published,1.0,2025-09-16,2025-09-21
+C00265,U0145,,draft,,2025-09-17,
+C00266,U0145,Spatial Alpha,draft,,2025-10-03,
+C00267,U0145,Alpha,draft,,2025-09-30,
+C00268,U0146,Spatial TV,published,3.0,2025-09-27,2025-10-05
+C00269,U0146,3D Spatial,draft,,2025-09-26,
+C00270,U0149,3D Experience,published,4.0,2025-10-01,2025-10-05
+C00271,U0150,Prism Interactive,published,1.0,2025-07-18,2025-08-11
+C00272,U0151,3D Spatial,published,2.0,2025-09-10,2025-09-15
+C00273,U0152,Alpha Interactive,deleted,,2025-09-28,
+C00274,U0152,3D Spatial,draft,,2025-09-21,
+C00275,U0152,Prism,published,3.0,2025-09-09,2025-09-10
+C00276,U0153,Spatial TV,draft,,2025-09-18,
+C00277,U0153,Alpha,published,2.0,2025-09-16,2025-09-26
+C00278,U0155,Prism,published,5.0,2025-08-05,2025-08-06
+C00279,U0155,Prism Extended,draft,,2025-08-24,
+C00280,U0155,Spatial TV,deleted,,2025-10-03,
+C00281,U0155,Prism Interactive,deleted,,2025-09-09,
+C00282,U0156,Prism Interactive,draft,,2025-09-08,
+C00283,U0157,Spatial Interactive,published,2.0,2025-09-26,2025-10-03
+C00284,U0157,3D Spatial,published,4.0,2025-08-30,2025-09-03
+C00285,U0157,3D Experience,deleted,,2025-09-30,
+C00286,U0157,Prism,published,3.0,2025-09-28,2025-10-05
+C00287,U0158,Prism Extended,draft,,2025-09-15,
+C00288,U0159,Alpha Interactive,draft,,2025-09-04,
+C00289,U0159,3D Spatial,published,1.0,2025-08-09,2025-08-14
+C00290,U0159,Spatial Interactive,draft,,2025-09-17,
+C00291,U0160,Alpha,published,5.0,2025-08-13,2025-08-18
+C00292,U0160,Spatial Alpha,draft,,2025-09-23,
+C00293,U0161,Alpha Interactive,deleted,,2025-08-29,
+C00294,U0161,3D Experience,published,5.0,2025-10-01,2025-10-01
+C00295,U0161,Spatial TV,published,4.0,2025-10-02,2025-10-04
+C00296,U0162,Prism Extended,draft,,2025-08-26,
+C00297,U0162,3D Experience,draft,,2025-09-17,
+C00298,U0162,Prism,draft,,2025-09-09,
+C00299,U0163,Spatial Alpha,draft,,2025-08-26,
+C00300,U0163,Prism,published,,2025-09-26,2025-10-04
+C00301,U0163,Prism Interactive,published,2.0,2025-08-14,2025-08-27
+C00302,U0164,Alpha,published,5.0,2025-09-12,2025-09-12
+C00303,U0164,Spatial Interactive,draft,,2025-09-25,
+C00304,U0165,Spatial TV,draft,,2025-09-17,
+C00305,U0166,3D Spatial,published,3.0,2025-09-25,2025-09-27
+C00306,U0167,Spatial Interactive,deleted,,2025-09-01,
+C00307,U0167,Alpha Interactive,draft,,2025-08-26,
+C00308,U0167,Spatial Interactive,deleted,,2025-08-31,
+C00309,U0167,3D Experience,draft,,2025-08-27,
+C00310,U0167,3D Experience,deleted,,2025-09-05,
+C00311,U0167,Prism Interactive,draft,,2025-08-26,
+C00312,U0168,,draft,,2025-10-04,
+C00313,U0169,3D Spatial,draft,,2025-08-24,
+C00314,U0169,Prism Extended,draft,,2025-10-01,
+C00315,U0170,Prism Extended,draft,,2025-09-04,
+C00316,U0170,Spatial Alpha,draft,,2025-09-29,
+C00317,U0171,Spatial Interactive,draft,,2025-09-02,
+C00318,U0172,3D Spatial,published,3.0,2025-09-20,2025-09-21
+C00319,U0172,Prism Extended,published,2.0,2025-09-12,2025-09-13
+C00320,U0173,Alpha,deleted,,2025-09-09,
+C00321,U0173,Prism,published,1.0,2025-09-14,2025-09-21
+C00322,U0173,Spatial Alpha,draft,,2025-08-04,
+C00323,U0173,Alpha Interactive,draft,,2025-08-09,
+C00324,U0175,Alpha,draft,,2025-09-19,
+C00325,U0175,Spatial Alpha,draft,,2025-09-14,
+C00326,U0176,Spatial Interactive,published,5.0,2025-09-03,2025-09-09
+C00327,U0177,Spatial TV,deleted,,2025-09-16,
+C00328,U0177,Alpha,published,5.0,2025-09-05,2025-09-30
+C00329,U0178,Spatial TV,published,5.0,2025-08-02,2025-08-03
+C00330,U0179,Prism Extended,draft,,2025-09-26,
+C00331,U0179,Prism,deleted,,2025-09-27,
+C00332,U0179,Spatial Alpha,published,5.0,2025-09-12,2025-09-15
+C00333,U0179,Alpha,draft,,2025-09-16,
+C00334,U0180,Prism Extended,draft,,2025-09-28,
+C00335,U0181,Alpha Interactive,published,,2025-09-16,2025-09-18
+C00336,U0182,Prism Extended,draft,,2025-10-02,
+C00337,U0182,Alpha,published,1.0,2025-08-23,2025-08-24
+C00338,U0183,Spatial Alpha,published,2.0,2025-07-23,2025-08-04
+C00339,U0183,Prism Extended,draft,,2025-09-20,
+C00340,U0184,Spatial TV,published,2.0,2025-09-29,2025-10-06
+C00341,U0184,Prism Extended,draft,,2025-09-05,
+C00342,U0185,Spatial Alpha,published,3.0,2025-08-23,2025-08-29
+C00343,U0186,Prism Extended,draft,,2025-10-02,
+C00344,U0186,Prism,draft,,2025-08-08,
+C00345,U0186,Spatial Interactive,draft,,2025-08-22,
+C00346,U0187,,published,5.0,2025-09-21,2025-09-29
+C00347,U0190,Alpha,draft,,2025-09-17,
+C00348,U0190,Spatial Interactive,draft,,2025-08-14,
+C00349,U0190,Alpha Interactive,draft,,2025-09-18,
+C00350,U0190,Alpha Interactive,published,3.0,2025-09-27,2025-09-29
+C00351,U0191,Spatial Alpha,deleted,,2025-08-13,
+C00352,U0191,Prism Interactive,draft,,2025-07-31,
+C00353,U0191,3D Experience,published,4.0,2025-08-16,2025-09-02
+C00354,U0191,Spatial Alpha,draft,,2025-09-01,
+C00355,U0192,3D Spatial,published,1.0,2025-08-10,2025-08-26
+C00356,U0192,Prism Interactive,deleted,,2025-09-09,
+C00357,U0192,Spatial Interactive,draft,,2025-09-08,
+C00358,U0192,Prism Interactive,published,1.0,2025-07-18,2025-07-22
+C00359,U0192,Alpha Interactive,published,5.0,2025-08-25,2025-09-18
+C00360,U0193,Prism Extended,draft,,2025-09-10,
+C00361,U0195,Alpha Interactive,draft,,2025-09-12,
+C00362,U0195,Spatial Interactive,published,5.0,2025-09-14,2025-09-14
+C00363,U0196,Spatial Interactive,published,2.0,2025-09-12,2025-09-27
+C00364,U0196,Alpha,published,5.0,2025-08-18,2025-08-23
+C00365,U0197,Spatial Interactive,draft,,2025-10-03,
+C00366,U0198,Spatial TV,published,5.0,2025-09-02,2025-09-04
+C00367,U0200,Alpha,published,4.0,2025-09-15,2025-09-19
+C00368,U0202,Prism Extended,draft,,2025-09-05,
+C00369,U0203,3D Spatial,published,3.0,2025-09-04,2025-09-09
+C00370,U0203,Alpha,draft,,2025-08-03,
+C00371,U0203,Spatial Interactive,published,3.0,2025-09-05,2025-09-06
+C00372,U0204,Prism Interactive,draft,,2025-08-25,
+C00373,U0206,Spatial Alpha,published,3.0,2025-09-09,2025-09-15
+C00374,U0207,Spatial Alpha,deleted,,2025-09-07,
+C00375,U0208,Alpha Interactive,draft,,2025-09-18,
+C00376,U0212,3D Spatial,published,3.0,2025-09-28,2025-10-03
+C00377,U0213,Alpha Interactive,draft,,2025-10-04,
+C00378,U0214,Prism Extended,draft,,2025-09-21,
+C00379,U0215,Prism Extended,draft,,2025-09-06,
+C00380,U0215,Prism Interactive,draft,,2025-07-23,
+C00381,U0215,Spatial Alpha,published,3.0,2025-09-09,2025-09-14
+C00382,U0216,Prism,draft,,2025-08-12,
+C00383,U0217,3D Experience,published,1.0,2025-08-16,2025-08-20
+C00384,U0217,Prism Extended,draft,,2025-08-26,
+C00385,U0218,Spatial TV,draft,,2025-09-23,
+C00386,U0218,Spatial TV,deleted,,2025-09-23,
+C00387,U0220,Prism Extended,draft,,2025-09-10,
+C00388,U0220,Prism Extended,draft,,2025-08-23,
+C00389,U0220,3D Experience,published,5.0,2025-09-18,2025-09-22
+C00390,U0221,Alpha Interactive,draft,,2025-09-09,
+C00391,U0222,Alpha,published,4.0,2025-09-19,2025-10-04
+C00392,U0223,Spatial Alpha,published,2.0,2025-08-17,2025-09-04
+C00393,U0223,Prism,draft,,2025-08-22,
+C00394,U0224,3D Experience,published,3.0,2025-08-11,2025-09-01
+C00395,U0224,Spatial TV,draft,,2025-08-20,
+C00396,U0225,Spatial Alpha,published,1.0,2025-08-17,2025-08-31
+C00397,U0226,,published,2.0,2025-09-22,2025-09-26
+C00398,U0226,3D Spatial,draft,,2025-09-29,
+C00399,U0226,3D Spatial,published,5.0,2025-09-16,2025-09-20
+C00400,U0227,Prism,published,1.0,2025-08-12,2025-08-12
+C00401,U0228,Prism Interactive,draft,,2025-09-20,
+C00402,U0228,3D Spatial,draft,,2025-08-18,
+C00403,U0228,Spatial Alpha,draft,,2025-09-14,
+C00404,U0229,Prism Extended,draft,,2025-08-25,
+C00405,U0230,Prism,published,1.0,2025-08-21,2025-08-25
+C00406,U0231,Spatial TV,published,5.0,2025-07-16,2025-07-19
+C00407,U0231,,deleted,,2025-09-11,
+C00408,U0233,Prism Extended,published,1.0,2025-08-07,2025-08-08
+C00409,U0233,Alpha Interactive,draft,,2025-08-11,
+C00410,U0233,Spatial TV,published,2.0,2025-08-29,2025-08-29
+C00411,U0234,3D Experience,published,4.0,2025-09-12,2025-10-05
+C00412,U0234,Spatial TV,draft,,2025-10-05,
+C00413,U0235,Alpha,published,1.0,2025-07-27,2025-07-29
+C00414,U0236,Spatial Alpha,published,1.0,2025-09-15,2025-10-03
+C00415,U0237,Alpha,draft,,2025-08-18,
+C00416,U0237,3D Spatial,published,2.0,2025-09-03,2025-09-26
+C00417,U0238,Prism Interactive,draft,,2025-08-04,
+C00418,U0239,Spatial Alpha,draft,,2025-09-01,
+C00419,U0240,Spatial Alpha,draft,,2025-09-21,
+C00420,U0241,3D Spatial,draft,,2025-09-22,
+C00421,U0242,Spatial Interactive,published,2.0,2025-09-10,2025-09-10
+C00422,U0243,3D Spatial,draft,,2025-09-30,
+C00423,U0243,3D Experience,draft,,2025-09-16,
+C00424,U0243,Prism Interactive,published,1.0,2025-09-19,2025-09-24
+C00425,U0244,3D Experience,draft,,2025-09-29,
+C00426,U0245,Spatial TV,published,,2025-09-11,2025-09-17
+C00427,U0247,3D Spatial,published,,2025-09-07,2025-09-25
+C00428,U0248,Prism,draft,,2025-09-27,
+C00429,U0250,Spatial TV,published,2.0,2025-08-08,2025-08-17
+C00430,U0250,Prism Interactive,published,1.0,2025-09-02,2025-09-08

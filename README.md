@@ -40,6 +40,7 @@ Data_Analysis_Project/
 ├── visuals/
 
 │ └── PowerBI_Dashboard.pbix
+│ └── Insights and recomendations.pdf
 
 │
 
